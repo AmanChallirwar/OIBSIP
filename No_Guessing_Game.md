@@ -1,6 +1,6 @@
 /*
 Name -Aman Ajay Challirwar
-Task - Number Guessing Game
+Task 2 - Number Guessing Game
  */
 import java.util.Random;
 import java.util.Scanner;
