@@ -1,4 +1,3 @@
-# OIBSIP
 /*
 Name -Aman Ajay Challirwar
 Task - Number Guessing Game
