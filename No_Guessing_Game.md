@@ -48,9 +48,9 @@ public class NoOfGuess {
         System.out.println("lets play a game ,  GUESS THE NUMBER");
         System.out.println("you will get 10 chances to guess the number ");
         for (int i = 0; i < 10; i++) {
-            int choice = sc.nextInt();
-            g.takeUserInput(choice);
-            g.noOfGuesses();
+              int choice = sc.nextInt();
+              g.takeUserInput(choice);
+              g.noOfGuesses();
 
         }
     }
